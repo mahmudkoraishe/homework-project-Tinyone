@@ -1,0 +1,76 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\Paratype PT Sans Free Font License.txt
+FileModTime:1626286006
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Bold
+FamilyName:PT Sans
+StyleName:Bold
+FullName:PT Sans Bold
+MenuName:PT Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTS-bold.ttf
+DataFormat:sfntData
+FileLength:457448
+FileModTime:1626286006
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Bold
+NameArray:0,Mac,4,PT Sans Bold
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Regular
+FamilyName:PT Sans
+StyleName:Regular
+FullName:PT Sans
+MenuName:PT Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTS-regular.ttf
+DataFormat:sfntData
+FileLength:429172
+FileModTime:1626286006
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans
+NameArray:0,Mac,4,PT Sans
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-BoldItalic
+FamilyName:PT Sans
+StyleName:Bold Italic
+FullName:PT Sans Bold Italic
+MenuName:PT Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTS76F.ttf
+DataFormat:sfntData
+FileLength:345476
+FileModTime:1626286006
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,PT Sans Bold Italic
+NameArray:0,Mac,4,PT Sans Bold Italic
+NameArray:0,Win,1,PT Sans
+%EndFont
+

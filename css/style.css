@@ -1,0 +1,194 @@
+@font-face{
+	font-family: PTS-regular;
+	src: url(../fonts/pt-sans/PTS-regular.ttf);
+}
+@font-face{
+	font-family: PTS-bold;
+	src: url(../fonts/pt-sans/PTS-bold.ttf);
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: PTS-regular;
+	font-size: 16px;
+	font-weight: 400;
+	color: #898989;
+}
+/*header start*/
+header{
+	
+	background-color: #fcdb00;
+	padding: 30px;
+}
+.container{
+	
+	overflow: hidden;
+	width: 68%;
+	margin: 0 auto ;
+}
+.logo{
+	
+	overflow: hidden;
+	width: 20%;
+	float: left;
+}
+.logo1{
+	float: left;
+	width: 38%;
+}
+.logo1 a{}
+.logo1 a img{
+	width: 100%;
+}
+.logo2{
+	float: right;
+	width: 60%;
+	margin: 20px 0;
+
+}
+.logo2 a{}
+.logo2 a img{
+	width: 100%;
+	
+}
+.menu{
+	
+	width: 40%;
+	float: right;
+}
+.menu ul{
+	
+   float: right;
+	list-style: none;
+	padding-left:0;
+		width: 100%;
+	
+}
+.menu ul li{
+	float: left;
+	margin-right: 22%;
+
+
+}
+.menu ul li a{
+    font-family: PTS-bold;
+	font-size: 16px;
+	font-weight: 700;
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+
+
+}
+.menu ul li:last-child {
+	margin-right: 0px;
+}
+.banner{
+	
+	width: 100%;
+	background-color: #fcdb00;
+}
+.b_content{
+	overflow: hidden;
+	
+	width: 62%;
+	margin-left: 16%;
+	padding-bottom: 100px;
+}
+.b1{
+	float: left;
+	width: 45%;
+	margin-right: 15%;
+	margin-top: 30px;
+
+}
+.b1 h1{
+	color: black;
+
+}
+.b1 p{
+	color: #555555;
+}
+.b1 p span{
+	color: #313841;
+}
+.b_icon{
+	overflow: hidden;
+}
+.icon{
+	margin-top: 20px;
+	margin-right: 10%;
+	float: left;
+}
+.b2{
+	float: right;
+	width: 40%;
+}
+.b2 img{
+	width: 100%;
+}
+/*feature start*/
+.feature{
+	overflow: hidden;
+	padding-top:60px ;
+	padding-bottom: 60px;
+}
+.f_content{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+
+}
+.f_content h2{
+	margin-top: 0px;
+	margin-bottom: 15px;
+	font-size: 28px;
+	color: black;
+}
+.f_content p{
+	margin: 0px;
+	font-size: 16px;
+	color: #313841;
+}
+/*feature end*/
+/*blog start*/
+.blog{
+	width: 100%;
+}
+.blog_content{
+	
+	
+	float: left;
+	width: 30%;
+	margin-right: 5%;
+	padding-bottom: 75px;
+}
+.blog_content:nth-child(3){
+margin-right: 0px;
+}
+.blog_content:nth-child(6){
+margin-right: 0px;
+}
+.blog_icon{
+	float: left;
+	width: 10%;
+
+}
+.blog_icon img{
+	width: 100%;
+}
+.blog_writing{
+	width: 80%;
+	float: right;
+}
+.blog_writing h3{
+	margin: 0px;
+color: black;
+font-size: 22px;
+}
+.blog_writing p{
+	margin-bottom: 0px;
+	font-size: 16px;
+color: #898989;
+}
+/*blog end*/

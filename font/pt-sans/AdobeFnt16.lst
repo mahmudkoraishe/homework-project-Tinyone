@@ -1,0 +1,186 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\Paratype PT Sans Free Font License.txt
+FileModTime:1626286006
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Caption
+FamilyName:PT Sans Caption
+StyleName:Regular
+FullName:PT Sans Caption
+MenuName:PT Sans Caption
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTC55F.ttf
+DataFormat:sfntData
+FileLength:355468
+FileModTime:1626286006
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Caption
+NameArray:0,Mac,4,PT Sans Caption
+NameArray:0,Win,1,PT Sans Caption
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-CaptionBold
+FamilyName:PT Sans Caption
+StyleName:Bold
+FullName:PT Sans Caption Bold
+MenuName:PT Sans Caption
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTC75F.ttf
+DataFormat:sfntData
+FileLength:377508
+FileModTime:1626286006
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Caption Bold
+NameArray:0,Mac,4,PT Sans Caption Bold
+NameArray:0,Win,1,PT Sans Caption
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Narrow
+FamilyName:PT Sans Narrow
+StyleName:Regular
+FullName:PT Sans Narrow
+MenuName:PT Sans Narrow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTN57F.ttf
+DataFormat:sfntData
+FileLength:383848
+FileModTime:1626286006
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Narrow
+NameArray:0,Mac,4,PT Sans Narrow
+NameArray:0,Win,1,PT Sans Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-NarrowBold
+FamilyName:PT Sans Narrow
+StyleName:Bold
+FullName:PT Sans Narrow Bold
+MenuName:PT Sans Narrow
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTN77F.ttf
+DataFormat:sfntData
+FileLength:487796
+FileModTime:1626286006
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Narrow Bold
+NameArray:0,Mac,4,PT Sans Narrow Bold
+NameArray:0,Win,1,PT Sans Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Regular
+FamilyName:PT Sans
+StyleName:Regular
+FullName:PT Sans
+MenuName:PT Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTS55F.ttf
+DataFormat:sfntData
+FileLength:429172
+FileModTime:1626286006
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans
+NameArray:0,Mac,4,PT Sans
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Italic
+FamilyName:PT Sans
+StyleName:Italic
+FullName:PT Sans Italic
+MenuName:PT Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTS56F.ttf
+DataFormat:sfntData
+FileLength:412804
+FileModTime:1626286006
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,PT Sans Italic
+NameArray:0,Mac,4,PT Sans Italic
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Bold
+FamilyName:PT Sans
+StyleName:Bold
+FullName:PT Sans Bold
+MenuName:PT Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTS75F.ttf
+DataFormat:sfntData
+FileLength:457448
+FileModTime:1626286006
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Bold
+NameArray:0,Mac,4,PT Sans Bold
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-BoldItalic
+FamilyName:PT Sans
+StyleName:Bold Italic
+FullName:PT Sans Bold Italic
+MenuName:PT Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:F:\Web Design Everything\HTML-7-Tinyone\Font\pt-sans\PTS76F.ttf
+DataFormat:sfntData
+FileLength:345476
+FileModTime:1626286006
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,PT Sans Bold Italic
+NameArray:0,Mac,4,PT Sans Bold Italic
+NameArray:0,Win,1,PT Sans
+%EndFont
+
